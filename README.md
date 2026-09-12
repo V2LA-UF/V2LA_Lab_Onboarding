@@ -19,16 +19,18 @@ Submit the [Building Access Request Form](https://www.eng.ufl.edu/facilities/ser
 - **Request type:** Electronic Door Access
 - **Building:** Malachowsky Hall
 - **Access:** Exterior Doors and Lab 5225
-- **Supervisor/Professor:** Dr. Tran
+- **Supervisor/Professor:** Dung Tran
 
 Have your UFID ready. Complete any required safety training first; the form asks you to confirm it.
 
 ## 2. Weekly Routine
 
+**Contacts:** Yuntao Li ([yli17@ufl.edu](mailto:yli17@ufl.edu)) and Dr. Dung Tran ([dungtran@ufl.edu](mailto:dungtran@ufl.edu))
+
 - **Work schedule:** Share your working schedule with Yuntao Li in advance, so we know when you will be in the lab, can plan discussions with you, and can coordinate lab space if needed.
-- **Progress notes:** Keep your own Overleaf project with detailed updates: what you studied, what you built, results, and errors.
+- **Progress notes:** Keep your own Overleaf project with detailed updates: what you studied, what you built, results, and errors. Share the project with Yuntao Li (yli17@ufl.edu).
 - **Email update:** Before each meeting, send a brief update to Yuntao Li and Dr. Tran.
-- **Weekly meeting:** Every **Tuesday at 1:00 pm**. Bring one result to show and any questions you are stuck on.
+- **Weekly meeting:** Every **Tuesday at 1:00 pm** in the lab, **Malachowsky Hall 5225**. Bring one result to show and any questions you are stuck on.
 
 ## 3. Ubuntu, Virtual Machines, and Docker
 
