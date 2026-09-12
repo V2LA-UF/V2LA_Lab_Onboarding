@@ -65,6 +65,7 @@ Complete these [Humble tutorials](https://docs.ros.org/en/humble/Tutorials.html)
 1. [Beginner: CLI tools](https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools.html): nodes, topics, services, parameters, launch, and bags
 2. [Beginner: Client libraries](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries.html): workspaces, packages, colcon, publishers, and subscribers (use Python)
 3. [tf2](https://docs.ros.org/en/humble/Tutorials/Intermediate/Tf2/Tf2-Main.html): coordinate frames and transforms
+4. Launch files: [Creating a launch file](https://docs.ros.org/en/humble/Tutorials/Intermediate/Launch/Creating-Launch-Files.html) and [Integrating launch files into ROS 2 packages](https://docs.ros.org/en/humble/Tutorials/Intermediate/Launch/Launch-system.html)
 
 ## 6. F1TENTH Simulator
 
